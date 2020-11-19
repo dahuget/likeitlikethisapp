@@ -10,6 +10,11 @@
       "StackName": "amplify-likeitlikethisapp-dev-135822",
       "StackId": "arn:aws:cloudformation:ca-central-1:156917128795:stack/amplify-likeitlikethisapp-dev-135822/58dff670-2ab2-11eb-a0c1-06edfed6ea7a",
       "AmplifyAppId": "d2vvlhofop3fxm"
+    },
+    "categories": {
+      "auth": {
+        "likeitlikethisapp974d6281": {}
+      }
     }
   }
 }

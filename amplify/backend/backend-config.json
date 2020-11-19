@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "likeitlikethisapp974d6281": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
